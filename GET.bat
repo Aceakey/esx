@@ -1,0 +1,1 @@
+BiosConfigUtility64.exe /get:config.txt
